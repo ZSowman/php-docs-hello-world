@@ -2,10 +2,10 @@
 
 echo "Hello World!";
 
-echo "Just Zef doing some PHP stuff!";
+echo "\n Just Zef doing some PHP stuff! \n";
 
 
-echo 'Test '.$_ENV["testkey"];
+echo 'Test Key vualt '.$_ENV["testkey"];
 
 
 
