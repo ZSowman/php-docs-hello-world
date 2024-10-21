@@ -5,7 +5,7 @@
 //echo "\n Just Zef doing some PHP stuff! \n";
 
 
-echo 'Test Key vualt: '.$_ENV["testkey"]' !!!!!!!!!!!!!!!';
+echo 'Key Vualt Test: '.$_ENV["testkey"];
 
 
 
